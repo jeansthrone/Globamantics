@@ -1,0 +1,10 @@
+{
+    "name": "simple-app",
+    "authors": "Patrick Neborg",
+    "dependencies": {
+        "path": "0.12.7",
+        "express": "4.15.4",
+        "express-handlebars": "3.0.2",
+        "serve-favicon": "2.5.0"
+    }
+}
