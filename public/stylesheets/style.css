@@ -1,0 +1,23 @@
+.navbar-header img {
+    max-height: 48px;
+}
+.navbar-nav img{
+    max-height: 48px;
+}
+.thumbnail img {
+    max-height: 200px;
+}
+
+.thumbnail .description {
+    color: #7f7f7f;
+}
+
+.price {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+body {
+    background-image: url("/Globo_logo_REV_Vert.png");
+    background-color: #cccccc;
+}
